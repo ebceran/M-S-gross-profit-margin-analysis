@@ -25,7 +25,10 @@ It calculates year-on-year changes and produces a **dual-axis professional chart
 ## ⚙️ Requirements
 Install the required Python libraries:
 ```bash
-pip install -r requirements.txt
+pip install pandas
+matplotlib
+jupyter
+python-pptx
 
 
 
