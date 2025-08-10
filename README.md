@@ -38,7 +38,8 @@ To visualise and analyse Marks & Spencer’s Revenue (£m), Gross Profit (£m), 
 ---
 
 ##  Visualisation
-![Gross Profit & Margin Chart](<img width="1112" height="676" alt="Screenshot 2025-08-10 090826" src="https://github.com/user-attachments/assets/094e9e26-acba-417c-8ba0-f96e35828c87" />)
+<img width="1112" height="676" alt="Screenshot 2025-08-10 090826" src="https://github.com/user-attachments/assets/ab507c10-6895-4bc0-85ee-b6ee6551432b" />
+
 
 ---
 
