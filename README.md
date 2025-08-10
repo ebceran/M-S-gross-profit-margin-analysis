@@ -12,8 +12,8 @@ It calculates year-on-year changes and produces a **dual-axis professional chart
 - **README.md** — Project documentation
 
 ## 📊 Example Output
-![Marks & Spencer GPM Chart](<img width="995" height="572" alt="image" src="https://github.com/user-attachments/assets/b7ab3757-cb23-47ca-91ee-fefdd6d692b9" />
-)
+<img width="995" height="572" alt="image" src="https://github.com/user-attachments/assets/f111d88d-08fd-4f46-a96c-1e536ce86c3d" />
+
 
 ## 🔍 Features
 - Data cleaning & preprocessing
