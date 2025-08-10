@@ -1,44 +1,31 @@
-# Marks & Spencer — Gross Profit & Margin Analysis (FY2024–FY2025)
+# Marks & Spencer — Gross Profit & Margin Analysis
 
-## Objective
-To visualise and analyse Marks & Spencer’s Revenue (£m), Gross Profit (£m), and Gross Profit Margin (%) over FY2024–FY2025, highlighting year-on-year changes and margin trends.
+This project analyses Marks & Spencer's **Revenue**, **Gross Profit**, and **Gross Profit Margin (%)** for FY2024–FY2025 using Python.  
+It calculates year-on-year changes and produces a **dual-axis professional chart** for visualising trends.
 
----
+## Project Structure
+- **ms_financials.xlsx** — Original financial data
+- **ms_financials_2024_2025.csv** — Cleaned dataset for analysis
+- **ms_gpm_final.ipynb** — Final Jupyter Notebook with GPM analysis
+- **ms_gpm_final_png.ipynb** — Notebook version that saves the chart as PNG
+- **requirements.txt** — Required Python packages
+- **README.md** — Project documentation
 
-## Data Overview
-| Metric                  | FY2024   | FY2025   | Change |
-|-------------------------|----------|----------|--------|
-| **Revenue (£m)**        | 13,040   | 13,900   | **+6.60%** |
-| **Gross Profit (£m)**   | 4,467    | 4,641    | **+3.90%** |
-| **Gross Profit Margin** | 34.26%   | 33.39%   | **-0.87 pp** |
+## Example Output
+![Marks & Spencer GPM Chart](ms_gpm_chart.png)
 
----
+## Features
+- Data cleaning & preprocessing
+- Gross Profit & Gross Profit Margin calculation
+- Year-on-year % change analysis
+- Dual-axis Matplotlib chart for better insight
+- Professional & clean visual styling
 
-## Methodology
-- Imported and structured data using **Pandas DataFrame**.
-- Created a **dual-axis chart** with Matplotlib:
-  - **Bar chart** for Revenue and Gross Profit.
-  - **Line chart** for Gross Profit Margin (%) on a secondary y-axis.
-- Added value annotations on bars and line points.
-- Included a summary footer showing year-on-year changes for all three metrics.
+##  Requirements
+Install the required Python libraries:
+```bash
+pip install -r requirements.txt
 
----
-
-## Key Insights
-- Revenue increased by **6.6%**, showing strong top-line growth.
-- Gross Profit grew by **3.9%**, but at a slower pace than revenue, suggesting potential cost pressures.
-- Gross Profit Margin fell by **0.87 percentage points**, possibly due to rising operational or production costs.
-
----
-
-## Tools Used
-- **Python** — Pandas, Matplotlib
-- Data visualisation for financial performance reporting.
-
----
-
-##  Visualisation
-<img width="1112" height="676" alt="Screenshot 2025-08-10 090826" src="https://github.com/user-attachments/assets/ab507c10-6895-4bc0-85ee-b6ee6551432b" />
 
 
 ---
